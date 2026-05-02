@@ -2,7 +2,7 @@
 
 **Bringing Java to the AI Agent Party | Enterprise-Grade Autonomy**
 
-7+ years building systems end to end. Now focused on AI agents, MCP protocol, and making enterprise automation actually work.
+8+ years building systems end to end. Now focused on AI agents, MCP protocol, and making enterprise automation actually work.
 
 ## 🔧 Open Source
 
