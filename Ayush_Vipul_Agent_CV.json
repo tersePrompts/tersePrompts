@@ -78,11 +78,22 @@
   },
   "preferences": {
     "current_location": "Pune, Maharashtra, India",
-    "current_ctc": "21 LPA",
-    "expected_ctc": "30 LPA",
-    "notice_period": "90 days (negotiable to 45 days)",
-    "target_roles": ["Software Engineer", "Senior AI Engineer", "Applied AI", "Senior Engineering Manager"],
-    "preferred_locations": ["Pune", "Bangalore", "Noida", "Remote"],
-    "work_preference": "Direct company applications only"
+    "preferred_locations": ["Pune", "Bangalore", "Hyderabad", "Remote"],
+    "notice_period": "45 days",
+    "target_roles": ["Forward Deployed Engineer", "Field CTO for Startups", "Applied AI Engineer", "Java AI", "Senior Engineering Manager"],
+    "work_preference": "Direct company applications only",
+    "visa_status": "Indian Citizen",
+    "relocation": "Willing to relocate within India",
+    "remote_work": "Open to remote opportunities",
+    "languages": ["English (Professional)", "Hindi (Native)"]
+  },
+  "leadership": {
+    "team_size": "8-15 engineers",
+    "budget_managed": "Platform budget for enterprise implementations",
+    "reporting_to": "Director of Engineering"
+  },
+  "availability": {
+    "start_date": "Within 45 days of offer acceptance",
+    "interview_availability": "Weekdays 6 PM IST onwards, Weekends flexible"
   }
 }

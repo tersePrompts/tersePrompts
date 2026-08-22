@@ -79,12 +79,13 @@ Tools: SnapLogic, API Design, Cloud Architecture
 JOB PREFERENCES
 ---------------
 Current Location: Pune, Maharashtra, India
-Current CTC: 21 LPA
-Expected CTC: 30 LPA
-Notice Period: 90 days (negotiable to 45 days)
+Preferred Locations: Pune, Bangalore, Hyderabad, Remote
+Notice Period: 45 days
 Target Roles: Software Engineer, Senior AI Engineer, Applied AI, Senior Engineering Manager
-Preferred Locations: Pune, Bangalore, Noida, Remote
 Preference: Direct company applications only
+Languages: English (Professional), Hindi (Native)
+Relocation: Willing to relocate within India
+Remote Work: Open to remote opportunities
 
 END OF CV
 --------
