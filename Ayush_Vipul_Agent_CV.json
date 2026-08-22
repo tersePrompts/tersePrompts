@@ -1,0 +1,88 @@
+{
+  "name": "Ayush Vipul",
+  "title": "Senior Engineering Manager",
+  "contact": {
+    "email": "ayush.vipul@outlook.com",
+    "phone": "+91-7428540849",
+    "linkedin": "linkedin.com/in/ayushv2024",
+    "github": "github.com/tersePrompts"
+  },
+  "summary": "Senior Engineering Manager with 8+ years experience in AI Agent Builder Platforms and Integration Platforms. Led enterprise implementations across 8+ use cases. Expert in GenAI, LLMs, Agentic AI, and protocols: ACP, MCP, A2A, A2UI.",
+  "experience": [
+    {
+      "company": "Zycus Inc.",
+      "role": "Senior Engineering Manager – Integrations & AltGen (Agentic AI) Platform",
+      "dates": "Apr 2026 – Present",
+      "location": "Pune, India",
+      "projects": [
+        {
+          "name": "Unified AI Workspace Platform",
+          "description": "Connected Cloud Code, Gemini CLI, OpenCode into single workspace",
+          "impact": "80% faster onboarding"
+        },
+        {
+          "name": "AI Cost Control System",
+          "description": "Built toll gate architecture to stop runaway AI costs",
+          "impact": "60% cost reduction"
+        },
+        {
+          "name": "Contract Discount Recovery",
+          "description": "AI extracts discount logic from 200+ page contracts",
+          "impact": "Enterprise clients recover missed discounts"
+        },
+        {
+          "name": "AI Agent Builder for Business Teams",
+          "description": "No-code platform for creating AI assistants",
+          "impact": "8 enterprise functions using AI agents"
+        }
+      ]
+    },
+    {
+      "company": "Zycus Inc.",
+      "role": "Manager – Integrations Platform",
+      "dates": "Apr 2024 – Mar 2026"
+    },
+    {
+      "company": "Zycus Inc.",
+      "role": "Tech Lead – Integrations Platform",
+      "dates": "Apr 2022 – Mar 2024"
+    },
+    {
+      "company": "Zycus Inc.",
+      "role": "Senior Software Engineer – Integrations Platform",
+      "dates": "Jul 2021 – Mar 2022"
+    },
+    {
+      "company": "Razorpay",
+      "role": "Senior Solutions Engineer - Integration",
+      "dates": "Jan 2021 – Jul 2021"
+    },
+    {
+      "company": "Zycus Inc.",
+      "role": "Software Engineer – Integration",
+      "dates": "Jul 2018 – Jan 2021",
+      "achievements": "Built SnapLogic adapter with 70%+ client adoption, Overall Achievement Award"
+    }
+  ],
+  "education": {
+    "institution": "D.Y.Patil College of Engineering",
+    "location": "Pune, India",
+    "degree": "Bachelor of Engineering, Information Technology",
+    "year": "2018"
+  },
+  "skills": {
+    "core": ["Java (JDK 8-11)", "GenAI", "LLMs", "Agentic AI"],
+    "protocols": ["ACP (Agent Client Protocol)", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "A2UI (Agent-to-UI)"],
+    "platforms": ["Integration Platforms", "ETL", "Data Transformation", "AI Agent Builder Platforms", "No-Code/Low-Code"],
+    "tools": ["SnapLogic", "API Design", "Cloud Architecture"]
+  },
+  "preferences": {
+    "current_location": "Pune, Maharashtra, India",
+    "current_ctc": "21 LPA",
+    "expected_ctc": "30 LPA",
+    "notice_period": "90 days (negotiable to 45 days)",
+    "target_roles": ["Software Engineer", "Senior AI Engineer", "Applied AI", "Senior Engineering Manager"],
+    "preferred_locations": ["Pune", "Bangalore", "Noida", "Remote"],
+    "work_preference": "Direct company applications only"
+  }
+}

@@ -1,0 +1,90 @@
+AYUSH VIPUL
+SENIOR ENGINEERING MANAGER | AI & INTEGRATION PLATFORMS
+===============================================
+
+CONTACT
+------
+Email: ayush.vipul@outlook.com
+Phone: +91-7428540849
+LinkedIn: linkedin.com/in/ayushv2024
+GitHub: github.com/tersePrompts
+
+SUMMARY
+------
+Senior Engineering Manager with 8+ years experience building AI Agent Builder Platforms
+and Integration Platforms. Led enterprise implementations across 8+ use cases.
+Expert in GenAI, LLMs, Agentic AI, and protocols: ACP, MCP, A2A, A2UI.
+
+WORK EXPERIENCE
+---------------
+
+Zycus Inc. | Senior Engineering Manager – Integrations & AltGen (Agentic AI) Platform
+Apr 2026 – Present | Pune, India
+
+Projects:
+1. Unified AI Workspace Platform - Connected Cloud Code, Gemini CLI, OpenCode into single workspace.
+   Result: 80% faster onboarding for business teams.
+
+2. AI Cost Control System - Built "toll gate" architecture to stop runaway AI costs.
+   Result: 60% cost reduction while maintaining output quality.
+
+3. Contract Discount Recovery - AI extracts discount logic from 200+ page contracts.
+   Result: Enterprise clients recover missed discounts automatically.
+
+4. AI Agent Builder for Business Teams - No-code platform for creating AI assistants.
+   Result: 8 enterprise functions using AI agents without coding.
+
+Zycus Inc. | Manager – Integrations Platform
+Apr 2024 – Mar 2026
+
+- Led enterprise implementations as SPOC
+- Built AI-driven iSaaS Mapper platform with natural language
+- Created UI-based ETL pipeline tools
+- Optimized large-scale data processing
+
+Zycus Inc. | Tech Lead – Integrations Platform
+Apr 2022 – Mar 2024
+
+Zycus Inc. | Senior Software Engineer – Integrations Platform
+Jul 2021 – Mar 2022
+
+Zycus Inc. | Software Engineer – Integration
+Jul 2018 – Jan 2021
+
+- Built SnapLogic adapter (70%+ client adoption)
+- Created automation frameworks (25% productivity gain)
+- Overall Achievement Award for high-impact delivery
+
+Razorpay | Senior Solutions Engineer - Integration
+Jan 2021 – Jul 2021
+
+- Led integration discussions with Google and enterprise clients
+- Built drag-and-drop checkout configuration builder
+- Led UPI Autopay rollout
+
+EDUCATION
+---------
+D.Y.Patil College of Engineering, Pune, India
+Bachelor of Engineering, Information Technology | 2018
+
+TECHNICAL SKILLS
+----------------
+
+Core: Java (JDK 8-11), GenAI, LLMs, Agentic AI
+Protocols: ACP (Agent Client Protocol), MCP (Model Context Protocol), A2A (Agent-to-Agent), A2UI (Agent-to-UI)
+Platforms: Integration Platforms, ETL, Data Transformation, AI Agent Builder Platforms, No-Code/Low-Code
+Leadership: Engineering Management, Technical Leadership
+Tools: SnapLogic, API Design, Cloud Architecture
+
+JOB PREFERENCES
+---------------
+Current Location: Pune, Maharashtra, India
+Current CTC: 21 LPA
+Expected CTC: 30 LPA
+Notice Period: 90 days (negotiable to 45 days)
+Target Roles: Software Engineer, Senior AI Engineer, Applied AI, Senior Engineering Manager
+Preferred Locations: Pune, Bangalore, Noida, Remote
+Preference: Direct company applications only
+
+END OF CV
+--------
