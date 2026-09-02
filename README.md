@@ -33,6 +33,8 @@ Loading screens with feelings. GPT-2 runs in your browser now — your CPU is a 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-8A2BE2?style=for-the-badge)
+![ACP](https://img.shields.io/badge/ACP_Protocol-009688?style=for-the-badge)
+![A2A](https://img.shields.io/badge/A2A_Protocol-4285F4?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-1F6FEB?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Integration Platforms](https://img.shields.io/badge/Integration_Platforms-00897B?style=for-the-badge)
 
