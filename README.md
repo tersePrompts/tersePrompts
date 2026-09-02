@@ -8,13 +8,19 @@
 
 Don't just read about me — [chat with my AI agent](https://ayush-assistant.vercel.app/). It answers questions about my experience and projects, walks through my CV, and can book time on my calendar. Recruiter mode included.
 
-## 🔧 Open Source
+## 🚀 Projects
 
 ### [FastMCP4J](https://github.com/tersePrompts/fastMCP4J)
 Java framework for building MCP servers. Minimal dependencies, annotation-driven, JSON Schema 2020-12 compliant.
 
+### [bashkit4j](https://github.com/tersePrompts/bashkit4j)
+Java (JNA) bindings for bashkit — an isolated, sandboxed virtual bash with an in-memory VFS and zero host access.
+
 ### [jarp-mcp](https://github.com/tersePrompts/jarp-mcp)
 MCP server that decompiles Java classes from Maven dependencies — gives AI agents X-ray vision into compiled code.
+
+### [neural-preloader](https://github.com/tersePrompts/neural-preloader)
+What if loading screens had personality? A browser experiment running GPT-2 client-side with mood-driven animations.
 
 ## 🎯 What I Work With
 
