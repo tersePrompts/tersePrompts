@@ -26,6 +26,8 @@ What if loading screens had personality? A browser experiment running GPT-2 clie
 
 `Java` · `MCP Protocol` · `AI Agents` · `Integration Platforms` · `PostgreSQL` · `TypeScript` · `Angular`
 
+**Currently deep into:** `ACP` (Agent Client Protocol) · agent harnesses (OpenCode-style CLIs) · sandboxed bash as an agent tool
+
 ## 💡 Philosophy
 
 > *Write less, build more.*
