@@ -4,6 +4,10 @@
 
 8+ years building systems end to end. Now focused on AI agents, MCP protocol, and making enterprise automation actually work.
 
+## 🤖 Talk to My Agent
+
+Don't just read about me — [chat with my AI agent](https://ayush-assistant.vercel.app/). It answers questions about my experience and projects, walks through my CV, and can book time on my calendar. Recruiter mode included.
+
 ## 🔧 Open Source
 
 ### [FastMCP4J](https://github.com/tersePrompts/fastMCP4J)
