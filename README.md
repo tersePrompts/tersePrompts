@@ -61,16 +61,12 @@ I think in **contracts, not platforms** — protocols age well; frameworks don't
 - Protocols beat platforms. That's why MCP, ACP — and why I build for them.
 - Loading screens deserve inner lives too. See: [neural-preloader](https://github.com/tersePrompts/neural-preloader).
 
-## 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tersePrompts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tersePrompts&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-Numbers go up. Sometimes.
-
 ## 💡 Philosophy
 
 > ### *Write less, build more.*
 > If it needs 100 lines of boilerplate, that's not a feature — that's a missing library. So I build the library.
+
+> `/philosophy/hanlons-razor` — never attribute to malice what an unhandled edge case explains.
 
 ---
 
