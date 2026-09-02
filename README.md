@@ -40,20 +40,19 @@ Yes, Java — for *AI agents*. No, I won't apologize. Someone had to be brave.
 
 **Currently deep into:** `MCP` · `ACP` (Agent Client Protocol) · agent harnesses (OpenCode-style CLIs) · sandboxed bash as an agent tool
 
-## 🧠 What I'm About
+## 🧠 Protocols, Contracts & Attention
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge)
-![ACP](https://img.shields.io/badge/ACP-009688?style=for-the-badge)
-![Agent Harnesses](https://img.shields.io/badge/Agent_Harnesses-FF6F00?style=for-the-badge)
-![Sandboxed Bash](https://img.shields.io/badge/Sandboxed_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Systems](https://img.shields.io/badge/Systems-00838F?style=for-the-badge)
-![Philosophy](https://img.shields.io/badge/Philosophy-6D28D9?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-2EA043?style=for-the-badge&logo=github&logoColor=white)
+I think in **contracts, not platforms** — protocols age well; frameworks don't.
 
-*(Coffee is a hard build dependency. The build fails without it.)*
+| | |
+|:--|:--|
+| `MCP` | Model Context Protocol — one contract between models, tools, and data |
+| `ACP` | Agent Client Protocol — agents and editors, formally introduced |
+| `Agentic patterns` | harnesses, tool loops, planning, memory — the parts that make agents *agents* |
+| `Attention` | transformer attention patterns — what the model actually reads, not what the pitch deck says |
+| `Systems` | contracts, idempotency, graceful degradation |
+| `Philosophy` | write less, build more — a discipline, not a slogan |
+| `Coffee` | hard runtime dependency; the build fails without it |
 
 ## 🔥 Hot Takes
 
