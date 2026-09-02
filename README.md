@@ -56,7 +56,7 @@ I think in **contracts, not platforms** — protocols age well; frameworks don't
 
 ## 🔥 Hot Takes
 
-- If your "agent" can't run a sandboxed bash, it's a chatbot with extra steps.
+- An agent without a sandboxed bash is one rogue `rm -rf` away from bringing prod down.
 - Boilerplate is a design smell with a PR backlog.
 - Protocols beat platforms. That's why MCP, ACP — and why I build for them.
 - Loading screens deserve inner lives too. See: [neural-preloader](https://github.com/tersePrompts/neural-preloader).
