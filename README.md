@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Ayush%20Vipul&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Java%20%E2%9C%A6%20AI%20Agents%20%E2%9C%A6%20MCP&descSize=18&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Ayush%20Vipul&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Protocols%20%E2%9C%A6%20Agentic%20Systems%20%E2%9C%A6%20Attention&descSize=18&descAlignY=72" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=50&lines=Bringing+Java+to+the+AI+agent+party%2C+you%27re+welcome;MCP+servers%2C+zero+boilerplate.+Zero.+I+checked.;My+agents+run+sandboxed+bash.+Fearlessly.;Write+less%2C+build+more.+It%27s+a+lifestyle.)](https://github.com/tersePrompts)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=50&lines=I+think+in+protocols+and+contracts;Agentic+patterns+%C2%B7+attention+%C2%B7+systems;Java%2C+at+the+AI+agent+party.+You%27re+welcome.;Write+less%2C+build+more.+It%27s+a+lifestyle.)](https://github.com/tersePrompts)
 
 8+ years building systems end to end. Now I point AI agents at enterprise problems and get out of the way.
 
